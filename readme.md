@@ -15,9 +15,9 @@ LICENSE: [MIT](./license.md)
 5. [git commit](commit.md)
 6. [dit push](./push.md)
 7. [git reset](./reset.md)
-8. [git restore]()
+8. [git restore](./restore.md)
 9. [git log](./log.md)
-
+10. [git show](show.md)
 
 
 
